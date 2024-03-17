@@ -1,0 +1,5 @@
+transformers==4.30
+langchain
+accelerate
+bitsandbytes
+chainlit
